@@ -1,0 +1,32 @@
+img {
+	width: 250px;
+}
+body  {
+background-color: #D6EFFF;
+font-family: 'Quattrocento', serif;		
+}
+h1,h2,h3,h4,h5,h6 {
+	color: #554640;
+}
+.call-to-action  {
+	color: #FEFEFF;
+	background-color: #FE654F;
+	padding: 5px;
+	margin: 20px;
+	text-decoration: none;
+}
+
+}
+/* Product Page */
+
+.col50{
+	width: 50%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+img.hero {
+	width: 100%
+}
+
+
