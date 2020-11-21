@@ -19,14 +19,10 @@ h1,h2,h3,h4,h5,h6 {
 }
 /* Product Page */
 
-.col50{
+.col50 {
 	width: 50%;
 	display: inline-block;
 	vertical-align: top;
-}
-
-img.hero {
-	width: 100%
 }
 
 
