@@ -16,13 +16,86 @@ h1,h2,h3,h4,h5,h6 {
 	text-decoration: none;
 }
 
+.call-to-action1 {
+	color: #FE654F;
+	background-color: #FEFEFF;
+	font-size: 1.5em;
+	padding: 5px;
+	margin: 8px;
+	text-decoration: none;
+	margin-left: 43%;
 }
-/* Product Page */
+
+.call-to-action2 {
+	color: #FE654F;
+	background-color: #FEFEFF;
+	font-size: 1.5em;
+	padding: 5px;
+	margin: 8px;
+	text-decoration: none;
+	margin-left: 2%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4.5em;
+}
+
+/*Contact Form*/
+
+h2.contact {
+	text-align: center;
+}
+
+
+/*Product Page*/
 
 .col50 {
 	width: 50%;
 	display: inline-block;
 	vertical-align: top;
+	margin-top: 5%;
 }
+
+img.hero{
+	width: 95%;
+	height: 600px;
+}
+
+img.thumbnail {
+	width: 200px;
+	margin-top: 1%;
+	margin-left: 1%
+}
+
+img.thumbnail2 {
+	width: 200px;
+	height: 185.19px;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+
+h2.product {
+	font-size: 2.5em;
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+
+h3.detail {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.call-to-action3 {
+	color: #FEFEFF;
+	background-color: #FE654F;
+	padding: 5px;
+	margin: 0px;
+	text-decoration: none;
+}
+
+
+
+
 
 
