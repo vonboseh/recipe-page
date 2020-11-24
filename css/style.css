@@ -41,6 +41,10 @@ h1 {
 	font-size: 4.5em;
 }
 
+h2.home {
+	text-align: center;
+}
+
 /*Contact Form*/
 
 h2.contact {
@@ -92,6 +96,63 @@ h3.detail {
 	margin: 0px;
 	text-decoration: none;
 }
+
+/*Checkout*/
+
+.col70 {
+	width: 70%;
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.col30 {
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+.cart {
+	width: 100%;
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	padding: 10px;
+}
+
+.cart thead {
+	border-top: 2px solid #6A040F;
+}
+
+.cart tbody {
+	text-align: center;
+}
+
+button.call-to-action {
+	display: inline-block;
+	width: 100%;
+	box-sizing: border-box;
+	margin-left: 10%;
+}
+
+.order-summary .call-to-action {
+	width: 80%;
+	display: inline-block;
+	text-align: center;
+}
+
+.order-summary {
+	background-color: #c2d3de;
+	padding: 20px;
+}
+
+h3.order {
+	text-align: center;
+}
+
+
 
 
 
