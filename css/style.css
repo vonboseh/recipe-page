@@ -1,5 +1,5 @@
 img {
-	width: 250px;
+	width: 100%;
 }
 body  {
 background-color: #D6EFFF;
@@ -62,7 +62,7 @@ h2.contact {
 
 img.hero{
 	width: 95%;
-	height: 600px;
+	height: 450px;
 }
 
 img.thumbnail {
