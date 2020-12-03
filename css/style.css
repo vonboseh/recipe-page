@@ -152,6 +152,41 @@ h3.order {
 	text-align: center;
 }
 
+/* Bootstrap Overrides*/
+
+.btn-primary:hover, 
+.btn-primary {
+	color: #FEFEFF;
+	background-color: #FE654F;
+	border-color: #FE654F;
+}
+
+.btn-info:hover,
+.btn-info {
+	color: #FE654F;
+	background-color: #FEFEFF;
+	border-color: #FEFEFF;
+	margin-left: 44%;
+
+}
+
+.btn-secondary:hover,
+.btn-secondary {
+	color: #FE654F;
+	background-color: #FEFEFF;
+	border-color: #FEFEFF;
+	margin-left: 2%;
+}
+
+.btn-success:hover,
+.btn-success {
+	color: #FEFEFF;
+	background-color: #FE654F;
+	border-color: #FE654F;
+	width: 100%;
+}
+
+
 
 
 
