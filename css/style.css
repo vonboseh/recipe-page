@@ -152,6 +152,10 @@ h3.order {
 	text-align: center;
 }
 
+img.checkout {
+	width: 75%;
+}
+
 /* Bootstrap Overrides*/
 
 .btn-primary:hover, 
